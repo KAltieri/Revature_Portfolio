@@ -10,7 +10,7 @@ Compass is a geocache website built using Java Spring Backend, React Frontend an
 * Spring Boot
 * Spring Data
 * MongoDB
-* Spring Web
+* Spring MVC
 * JUnit
 * Mockito
 * Log4J
