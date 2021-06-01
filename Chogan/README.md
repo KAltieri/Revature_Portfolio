@@ -10,7 +10,7 @@ Revature's project platform is specialized for planning and storing information 
 * Spring Boot
 * Spring Data
 * MongoDB
-* Spring Web
+* Spring MVC
 * Rest
 * JUnit
 * Mockito
