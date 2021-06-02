@@ -45,10 +45,10 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 
 1. git clone `https://github.com/KAltieri/Revature_Portfolio/main/Project_1.git'
 2. Make sure to have
-* Be sure to have Java 8 run time environment installed
-* Be sure to have npm installed
+  * Be sure to have Java 8 run time environment installed
+  * Be sure to have npm installed
 3. If you want to run both separately - 
-* Steps
+  * Steps
 4. Else do: `Code`
 
 ## Usage
