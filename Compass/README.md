@@ -39,18 +39,17 @@ GeoCaching app allows users to be both gifters to hide gifts and seekers to retr
 
 ## Getting Started
 
-(include git clone command)
-(include all environment setup steps)
-
-> Be sure to include BOTH Windows and Unix command  
-> Be sure to mention if the commands only work on a specific platform (eg. AWS, GCP)
-
-- All the `code` required to get started
-- Images of what it should look like
+1. git clone `https://github.com/KAltieri/Revature_Portfolio/main/Project_1.git'
+2. Make sure to have
+* Be sure to have Java 8 run time environment installed
+* Be sure to have npm installed
+3. If you want to run both separately - 
+* Steps
+4. Else do: `Code`
 
 ## Usage
 
-> Here, you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+Different Screens Here
 
 ## Contacts/Collaborators
 * Kevin Altieri [@KAltieri](https://www.github.com/tomjmartinez/KAltieri)
