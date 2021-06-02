@@ -39,7 +39,7 @@ GeoCaching app allows users to be both gifters to hide gifts and seekers to retr
 
 ## Getting Started
 
-1. git clone `https://github.com/KAltieri/Revature_Portfolio/main/Project_1.git'
+1. git clone `https://github.com/KAltieri/Revature_Portfolio/main/Compass.git'
 2. Make sure to have
 * Be sure to have Java 8 run time environment installed
 * Be sure to have npm installed
